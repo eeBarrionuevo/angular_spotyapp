@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spotyapp"
+    }
+  },
+  "defaultProject": "spotyapp",
+  "cli": {
+    "analytics": "cfef77d1-b2e8-42a9-804f-652fd98a61cf"
+  }
 }
